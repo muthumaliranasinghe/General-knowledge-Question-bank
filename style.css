@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+	width: 600px;
+	border:2px solid black;
+	border:box;
+	height: 400px;
+	float: center;
+	margin-top: 50px;
+	margin-left: 500px;
+
+}
+.ques{
+	margin-left: 0px;
+
+}
+h3{
+	font-color:#00ff00;
+}
